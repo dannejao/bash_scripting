@@ -1,0 +1,13 @@
+sending incremental file list
+created directory backup//current
+./
+alternatives.log
+alternatives.log.tar.gz
+bootstrap.log
+bootstrap.log.tar.gz
+dpkg.log
+dpkg.log.tar.gz
+logfile.txt
+
+sent 253,053 bytes  received 190 bytes  506,486.00 bytes/sec
+total size is 252,446  speedup is 1.00
